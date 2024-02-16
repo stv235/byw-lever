@@ -1,6 +1,6 @@
 {
-  "name": "svelte-template",
-  "version": "0.0.0",
+  "name": "dnd-lever",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite"
